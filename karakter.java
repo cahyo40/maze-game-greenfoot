@@ -75,6 +75,9 @@ public class karakter extends Actor
             if(isTouching(lvl1.class)){
                 Greenfoot.setWorld(new b2());
             }
+            if(isTouching(lvl2.class)){
+                Greenfoot.setWorld(new b3());
+            }
             if(isTouching(nyawa.class)){
                 nyawa+=1;
             }

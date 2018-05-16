@@ -1,5 +1,5 @@
 #Greenfoot properties
-#Wed May 16 21:11:30 ICT 2018
+#Wed May 16 21:36:37 ICT 2018
 editor.fx.0.height=754
 target2.width=80
 target8.name=karakter
@@ -93,12 +93,14 @@ target16.y=0
 target16.x=0
 dependency9.from=karakter
 readme.name=@README
+class.b3.image=back1.png
 target14.width=80
 class.h.superclass=pagar
 target13.typeParameters=
 target14.y=0
 target15.width=80
 target14.x=0
+class.b3.superclass=greenfoot.World
 target6.name=point
 class.pg3.superclass=pagar
 target9.height=50
